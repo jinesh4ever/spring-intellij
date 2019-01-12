@@ -1,5 +1,8 @@
 # Compiled class file
 *.class
+*/target/**
+*/.idea/**
+springapiservice-gradle/src/main/resources
 
 # Log file
 *.log
