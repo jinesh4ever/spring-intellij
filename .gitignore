@@ -5,6 +5,7 @@
 */resources/**
 
 # Log file
+
 *.log
 
 # BlueJ files
